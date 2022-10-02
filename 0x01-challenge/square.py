@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""
-square.py
-"""
+""" square.py """
+
+
 class square():
     """ class square """
 
